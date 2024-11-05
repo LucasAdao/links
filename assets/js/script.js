@@ -4,6 +4,9 @@ function linkedinLink() {
 function githubLink(){
     window.location.href = "https://github.com/LucasAdao";
 }
-function instagramLink(){
-    window.location.href = "https://www.instagram.com/lucass.adao/";
+function curriculoLink(){
+    window.location.href = "curriculo.html";
+}
+function homeLink(){
+    window.location.href = "index.html";
 }

@@ -75,3 +75,11 @@ a{
     text-decoration: none;
     color:white;
 }
+
+object{
+    margin: 5%;
+    margin-top: -10%;
+    width: 60%; /* Ajuste conforme necessário */
+    height: 90%; /* Ajuste conforme necessário */
+    border: 1px solid #ddd;
+}

@@ -69,3 +69,10 @@ a{
     text-decoration: none;
     color:white;
 }
+object{
+    margin: 5%;
+    margin-top: -25%;
+    width: 60%; /* Ajuste conforme necessário */
+    height: 70%; /* Ajuste conforme necessário */
+    border: 1px solid #ddd;
+}
